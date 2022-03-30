@@ -1,5 +1,5 @@
-<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>, <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif" width="105px"></h1>
-<img width="40%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
+<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! Developers <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif" width="105px"></h1>
+<img width="40%" align="right"   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
 <hr/>
 
 ```yaml
