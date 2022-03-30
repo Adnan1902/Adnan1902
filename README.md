@@ -7,9 +7,9 @@ Bio.C
 #include<stdio.h>
 int main()
 {
-  printf("I am Mohammed Adnan");
-  printf("Artificial Intelligece & Data Science Student");
-  printf("Methodist College of Engineering and Technology");
+  printf("I am Mohammed Adnan\n");
+  printf("Artificial Intelligece & Data Science Student\n");
+  printf("@ Methodist College of Engineering and Technology\n");
   return 0;
  }    
 ```
