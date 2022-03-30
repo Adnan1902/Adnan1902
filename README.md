@@ -4,6 +4,8 @@
 
 ```yaml
 Bio.C
+#include<stdio.h>
+int main()
 {
     printf("I am Mohammed Adnan");
     printf("Undergraduate Artificial Intelligece & Data Science Student");
