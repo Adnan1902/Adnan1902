@@ -1,4 +1,4 @@
-<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>, This is Adnan <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif" width="90px"></h1>
+<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>, This is Adnan <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif" width="105px"></h1>
 <img width="40%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
 <hr/>
 
