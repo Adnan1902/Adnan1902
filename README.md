@@ -21,7 +21,7 @@ Bio.C
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
-<h2> Connect with me: </h2>
+<h2> Connect here: </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adnan02/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
