@@ -4,10 +4,10 @@
 
 ```yaml
 Bio:
-    Name: "Mohammed Adnan"
-    Role: "Student"
-    Education: "Artificial Intelligence & Data Science Undergradute Student"
-    Location: "Hyderabad, Telangana, India"
+  **This is Mohammed Adnan**
+   UG student (Artificial Intelligence & Data Science)
+   
+   
 ```
 
 <br>
