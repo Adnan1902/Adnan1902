@@ -3,8 +3,13 @@
 <hr/>
 
 ```yaml
-Bio:
-     I am Mohammed Adnan,
+Bio.C
+{
+    printf("I am Mohammed Adnan");
+    printf("Undergraduate Artificial Intelligece & Data Science Student");
+    printf("Methodist College of Engineering and Technology");
+    return 0;
+ }    
 ```
 
 <br>
