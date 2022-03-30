@@ -1,4 +1,4 @@
-<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! Developers!       <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif" width="74px"></h1>
+<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! Developers!       <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif" width="81px"></h1>
 <img width="40%" align="right"   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
 <hr/>
 
