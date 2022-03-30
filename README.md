@@ -7,10 +7,10 @@ Bio.C
 #include<stdio.h>
 int main()
 {
-    printf("I am Mohammed Adnan");
-    printf("Undergraduate Artificial Intelligece & Data Science Student");
-    printf("Methodist College of Engineering and Technology");
-    return 0;
+  printf("I am Mohammed Adnan");
+  printf("Undergraduate Artificial Intelligece & Data Science Student");
+  printf("Methodist College of Engineering and Technology");
+  return 0;
  }    
 ```
 
