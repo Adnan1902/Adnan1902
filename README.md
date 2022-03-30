@@ -1,4 +1,4 @@
-<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! Developers,This is Adnan <img src="https://www.bing.com/images/search?view=detailV2&ccid=yncSg5k%2b&id=D1DFA5609F84980E29D689CDFB17DB115A6F00A4&thid=OIP.yncSg5k-jyG_9r3fbO7_6gHaDS&mediaurl=https%3a%2f%2fentropy.co.za%2fassets%2fimages%2fhello-terminal-cursor.gif&exph=400&expw=900&q=hello+gif+github&simid=607986199082708432&FORM=IRPRST&ck=A403B07EA9FBB320B984AEDB51584AB0&selectedIndex=14"
+<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! Developers,This is Adnan <img src="https://entropy.co.za/assets/images/hello-terminal-cursor.gif" 
 <img width="40%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
 <hr/>
 
