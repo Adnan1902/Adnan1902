@@ -2,7 +2,7 @@
 
 <h3 align="center">An AI&DS (Artificial Intelligence and Data Science) Fanatic</h3>
 
-<img width="40%" align="right"   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
+<img width="40%" align="right"   src="https://maheshp2002.github.io/assets/img/code.gif" >
 <hr/>
 
 ```yaml
