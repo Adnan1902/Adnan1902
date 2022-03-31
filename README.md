@@ -1,4 +1,4 @@
-<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! Developers!       <img src="https://cdn.dribbble.com/users/102219/screenshots/3273488/hellodemo_00.gif" width="82px"></h1>
+<h1  align="center">  <img src="https://cdn.dribbble.com/users/102219/screenshots/3273488/hellodemo_00.gif" width="82px"> Developers!        </h1>
 
 <h3 align="center">An AI&DS (Artificial Intelligence and Data Science) Fanatic</h3>
 
