@@ -1,4 +1,4 @@
-<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! Developers!       <img src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" width="82px"></h1>
+<h1  align="center">  𝐇𝐞𝐥𝐥𝐨! Developers!       <img src="https://raw.githubusercontent.com/gist/lostgirljourney/e79e525737db484da10dc66588efcb05/raw/2fd5a50f3eca964f6e6bec28ea32f3ffb8914462/hello.gif" width="82px"></h1>
 
 <h3 align="center">An AI&DS (Artificial Intelligence and Data Science) Fanatic</h3>
 
