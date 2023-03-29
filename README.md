@@ -30,8 +30,7 @@ int main()
 
 <h3 align="left">Operating Systems:</h3>
 
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)]
-(https://en.wikipedia.org/wiki/Linux)
+![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
