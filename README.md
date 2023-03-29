@@ -55,6 +55,5 @@ int main()
   <a href="https://medium.com/@gursimarsm"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="mailto:gursimarsm@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/gursimarsm"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
- <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
