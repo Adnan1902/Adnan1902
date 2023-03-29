@@ -55,6 +55,6 @@ int main()
    <a href="https://medium.com/@adnans3917"><img src="" alt="medium"/></a>
   <a href="mailto:adnans3917@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
-<a href="https://www.instagram.com/zayn_mark7/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"></a>
+<a href="https://instagram.com/qari_zayn?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="65" width="65" /></a>
 <a href="https://twitter.com/zayn_mark7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
