@@ -1,4 +1,4 @@
-<h1  align="center">  <img src="https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png" width="85px" > Developers!        </h1>
+<h1  align="center">  <img src="https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png" width="100px" > Developers!        </h1>
 
 <h3 align="center">An AI&DS (Artificial Intelligence and Data Science) Fanatic</h3>
 
