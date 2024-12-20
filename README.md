@@ -143,9 +143,6 @@
   </table>
 </div>
 <div align="center">
-  <h3>🌟 Digital Presence Stats</h3>
-</div>
-<div align="center">
   <h3>💭 Let's Discuss</h3>
   <p>
     <code>Machine Learning</code> •
