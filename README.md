@@ -5,22 +5,38 @@
 </h1>
 <div align="center">
   <h3>AI & Data Science Explorer | Problem Solver | Tech Enthusiast</h3>
-  <p>Currently pursuing AI & Data Science at Methodist College of Engineering and Technology</p>
+  <p><i>Transforming Complex Data into Actionable Insights</i></p>
 </div>
-<div align="right" width="40%">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="40%">
-</div>
-
-// A bit about me
-#include <stdio.h>
-
-int main() {
-    printf("Hey there! I'm Mohammed Adnan 👨‍💻\n");
-    printf("🎓 AI & Data Science Student\n");
-    printf("🏛️ Methodist College of Engineering and Technology\n");
-    printf("💡 Passionate about turning data into insights\n");
-    return 0;
-}
+<table align="center">
+  <tr>
+    <td width="60%">
+      <h2>👨‍💻 About Me</h2>
+      <p>
+        Hello! I'm <b>Mohammed Adnan</b>, an ambitious AI & Data Science student at Methodist College of Engineering and Technology. My journey in technology is driven by a passion for transforming complex data into meaningful insights and creating innovative solutions that make a difference.
+      </p>
+      <p>
+        🎯 <b>Current Focus:</b>
+        <ul>
+          <li>Exploring advanced machine learning algorithms and their real-world applications</li>
+          <li>Developing skills in data analytics and visualization</li>
+          <li>Contributing to open-source AI projects</li>
+          <li>Building a strong foundation in neural networks and deep learning</li>
+        </ul>
+      </p>
+      <p>
+        🌱 <b>I'm currently:</b>
+        <ul>
+          <li>Working on personal projects in computer vision and natural language processing</li>
+          <li>Learning advanced statistical methods for data analysis</li>
+          <li>Collaborating with peers on innovative AI solutions</li>
+        </ul>
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="100%">
+    </td>
+  </tr>
+</table>
 🛠️ Technical Arsenal
 💻 Programming Languages
 <p>
