@@ -11,7 +11,7 @@
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="40%">
 </div>
 
-cCopy// A bit about me
+// A bit about me
 #include <stdio.h>
 
 int main() {
