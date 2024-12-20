@@ -101,7 +101,7 @@
   </p>
 </div>
 <div align="center">
-</div>
+  </div>
 <div align="center">
   <table>
     <tr>
@@ -120,21 +120,28 @@
     </tr>
     <tr>
       <td align="center">
+        <b>📸 Daily Updates</b><br>
+        <a href="https://instagram.com/qari_zayn">
+          <img src="https://img.shields.io/badge/Follow_My_Journey-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+        </a>
+      </td>
+      <td align="center">
         <b>🐦 Tech Insights</b><br>
         <a href="https://twitter.com/zayn_mark7">
           <img src="https://img.shields.io/badge/Follow_for_Tech_Updates-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
         </a>
       </td>
-      <td align="center">
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <b>📫 Direct Contact</b><br>
-        <a href="mailto:gursimarsm@gmail.com">
+        <a href="mailto:adnans3917@gmail.com">
           <img src="https://img.shields.io/badge/Email_for_Opportunities-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
-
 <div align="center">
   <h3>🌟 Digital Presence Stats</h3>
 </div>
