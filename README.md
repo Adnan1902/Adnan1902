@@ -35,6 +35,43 @@ Copy  ### 🎯 Current Focus
 </table>
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
+<h1 align="center">
+  <img src="https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png" width="200px" alt="Developer Logo">
+  <br>
+  Welcome to My Digital Space! 👋
+</h1>
+<div align="center">
+  <h3>AI & Data Science Explorer | Problem Solver | Tech Enthusiast</h3>
+  <p><i>Transforming Complex Data into Actionable Insights</i></p>
+
+</div>
+<table align="center" border="0">
+  <tr>
+    <td width="60%">
+      <h2>👨‍💻 About Me</h2>
+      <p align="justify">
+        Hello! I'm <b>Mohammed Adnan</b>, an ambitious AI & Data Science student at Methodist College of Engineering and Technology. My journey in technology is driven by a passion for transforming complex data into meaningful insights and creating innovative solutions that make a difference.
+      </p>
+Copy  ### 🎯 Current Focus
+  
+  - Exploring advanced machine learning algorithms and their real-world applications
+  - Developing skills in data analytics and visualization
+  - Contributing to open-source AI projects
+  - Building a strong foundation in neural networks and deep learning
+  
+  ### 🌱 I'm Currently
+  
+  - Working on personal projects in computer vision and natural language processing
+  - Learning advanced statistical methods for data analysis
+  - Collaborating with peers on innovative AI solutions
+</td>
+<td width="40%" align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="100%">
+</td>
+  </tr>
+</table>
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
 <details open>
 <summary><h3>💻 Programming Languages</h3></summary>
 <p align="center">
