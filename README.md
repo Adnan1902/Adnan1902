@@ -34,8 +34,6 @@ Copy  ### 🎯 Current Focus
 </td>
   </tr>
 </table>
-
-<h2 align="center">🛠️ Technical Arsenal</h2>
 <h2>🛠️ Technical Arsenal</h2>
 <details open>
 <summary><h3>💻 Programming Languages</h3></summary>
