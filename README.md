@@ -94,25 +94,68 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 </p>
-🤝 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/adnan02/" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="60">
-  </a>
-  <a href="https://medium.com/@adnans3917" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="Medium" width="60">
-  </a>
-  <a href="https://instagram.com/qari_zayn?igshid=YmMyMTA2M2Y=" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60">
-  </a>
-  <a href="mailto:gursimarsm@gmail.com">
-    <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="60">
-  </a>
-  <a href="https://twitter.com/zayn_mark7" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter" width="60">
-  </a>
-</p>
+🤝 Let's Connect & Collaborate!
+<div align="center">
+  <p>
+    <i>I'm always interested in connecting with fellow developers, data scientists, and tech enthusiasts. Feel free to reach out for collaborations or just a chat about AI & Technology!</i>
+  </p>
+</div>
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>💼 Professional Updates</b><br>
+        <a href="https://www.linkedin.com/in/adnan02/">
+          <img src="https://img.shields.io/badge/Follow_My_Professional_Journey-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center">
+        <b>📝 Technical Writing</b><br>
+        <a href="https://medium.com/@adnans3917">
+          <img src="https://img.shields.io/badge/Read_My_Tech_Articles-12100E?style=for-the-badge&logo=medium" alt="Medium"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>🐦 Tech Insights</b><br>
+        <a href="https://twitter.com/zayn_mark7">
+          <img src="https://img.shields.io/badge/Follow_for_Tech_Updates-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
+        </a>
+      </td>
+      <td align="center">
+        <b>📫 Direct Contact</b><br>
+        <a href="mailto:gursimarsm@gmail.com">
+          <img src="https://img.shields.io/badge/Email_for_Opportunities-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
-  <i>⚡ Fun fact: I believe AI is not just about algorithms; it's about creating a better future! 🚀</i>
+  <h3>🌟 Digital Presence Stats</h3>
+Show Image
+Show Image
+Show Image
+</div>
+<div align="center">
+  <h3>💭 Let's Discuss</h3>
+  <p>
+    <code>Machine Learning</code> •
+    <code>Data Science</code> •
+    <code>AI Applications</code> •
+    <code>Technology Trends</code> •
+    <code>Open Source</code>
+  </p>
+</div>
+
+<div align="center">
+  <i>⚡ "Bridging the gap between data and intelligence, one project at a time." 🚀</i>
 </div>
