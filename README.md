@@ -101,10 +101,6 @@
   </p>
 </div>
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
 </div>
 <div align="center">
   <table>
@@ -141,9 +137,6 @@ Show Image
 
 <div align="center">
   <h3>🌟 Digital Presence Stats</h3>
-Show Image
-Show Image
-Show Image
 </div>
 <div align="center">
   <h3>💭 Let's Discuss</h3>
