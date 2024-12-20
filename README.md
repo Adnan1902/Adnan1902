@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png" width="200px" alt="Developer Logo">
   <br>
-  Welcome to My Digital Space! 👋
+  Welcome to My Digital Space! 
 </h1>
 <div align="center">
   <h3>AI & Data Science Explorer | Problem Solver | Tech Enthusiast</h3>
