@@ -16,7 +16,7 @@
       <p align="justify">
         Hello! I'm <b>Mohammed Adnan</b>, an ambitious AI & Data Science student at Methodist College of Engineering and Technology. My journey in technology is driven by a passion for transforming complex data into meaningful insights and creating innovative solutions that make a difference.
       </p>
-  ###🎯 Current Focus
+      🎯 Current Focus
   
   - Exploring advanced machine learning algorithms and their real-world applications
   - Developing skills in data analytics and visualization
