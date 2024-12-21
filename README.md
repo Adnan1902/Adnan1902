@@ -136,7 +136,7 @@ Copy  ### 🎯 Current Focus
     </td>
     <td>
       <b>🐦 Tech Insights</b><br>
-      <a href="https://twitter.com/zayn_mark7">
+      <a href="https://twitter.com/m_adnxn">
         <img src="https://img.shields.io/badge/Follow_for_Tech_Updates-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
       </a>
     </td>
