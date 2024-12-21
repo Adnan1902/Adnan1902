@@ -14,7 +14,7 @@
     <td width="60%">
       <h2>👨‍💻 About Me</h2>
       <p align="justify">
-        Hello! I'm <b>Mohammed Adnan</b>, an ambitious AI & Data Science student at Methodist College of Engineering and Technology. My journey in technology is driven by a passion for transforming complex data into meaningful insights and creating innovative solutions that make a difference.
+        Hello! I'm <b>Mohammed Adnan</b>, an ambitious AI & Data Science student. My journey in technology is driven by a passion for transforming complex data into meaningful insights and creating innovative solutions that make a difference.
       </p>
      🎯 Current Focus
   
