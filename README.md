@@ -25,7 +25,7 @@
   
   ### 🌱 I'm Currently
   
-  - Working on personal projects in computer vision and natural language processing
+  - Working on personal projects in Agentic AI and LLMs
   - Learning advanced statistical methods for data analysis
   - Collaborating with peers on innovative AI solutions
 </td>
